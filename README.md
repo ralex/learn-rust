@@ -28,6 +28,6 @@ rustup docs --book
 20. 🔲 Final Project: Building a Multithreaded Web Server
 21. 🔲 Appendix
 
-# Cargo
+# Cargo
 
 [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
