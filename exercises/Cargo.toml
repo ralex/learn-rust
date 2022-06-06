@@ -1,0 +1,18 @@
+[package]
+name = "exercises"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "numbers"
+path = "src/numbers.rs"
+
+[[bin]]
+name = "piglatin"
+path = "src/piglatin.rs"
+
+[[bin]]
+name = "employees"
+path = "src/employees.rs"
+
+[dependencies]
