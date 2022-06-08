@@ -6,6 +6,7 @@ members = [
     "errors",
     "exercises",
     "functions",
+    "generics",
     "guessing_game",
     "hello_cargo",
     "loops",
