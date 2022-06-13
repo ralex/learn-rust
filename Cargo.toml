@@ -9,11 +9,13 @@ members = [
     "generics",
     "guessing_game",
     "hello_cargo",
+    "lifetimes",
     "loops",
     "ownership",
     "restaurant",
     "slices",
     "structs",
     "structs_example",
+    "traits",
     "variables"
 ]

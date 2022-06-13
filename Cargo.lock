@@ -65,6 +65,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "349d5a591cd28b49e1d1037471617a32ddcda5731b99419008085f72d5a53836"
 
 [[package]]
+name = "lifetimes"
+version = "0.1.0"
+
+[[package]]
 name = "loops"
 version = "0.1.0"
 
@@ -122,6 +126,10 @@ version = "0.1.0"
 
 [[package]]
 name = "structs_example"
+version = "0.1.0"
+
+[[package]]
+name = "traits"
 version = "0.1.0"
 
 [[package]]
