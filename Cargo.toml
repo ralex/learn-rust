@@ -12,6 +12,7 @@ members = [
     "hello_cargo",
     "lifetimes",
     "loops",
+    "minigrep",
     "ownership",
     "restaurant",
     "slices",
