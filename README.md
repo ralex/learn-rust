@@ -16,8 +16,8 @@ rustup docs --book
 8. ✅ Common Collections
 9. ✅ Error Handling
 10. ✅ Generic Types, Traits, and Lifetimes
-11. 🔲 Writing Automated Tests
-12. 🔲 An I/O Project: Building a Command Line Program
+11. ✅ Writing Automated Tests
+12. ✅ An I/O Project: Building a Command Line Program
 13. 🔲 Functional Language Features: Iterators and Closures
 14. 🔲 More about Cargo and Crates.io
 15. 🔲 Smart Pointers
@@ -31,3 +31,15 @@ rustup docs --book
 # Cargo
 
 [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+
+# rustup
+
+## Update Rust toolchains and rustup
+
+```
+rustup update
+```
+
+> With no toolchain specified, the `update` command updates each of
+> the installed toolchains from the official release channels, then
+> updates rustup itself.
