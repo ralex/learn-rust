@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "adder",
+    "closures",
     "collections",
     "control_flow",
     "enums",
@@ -15,6 +16,7 @@ members = [
     "minigrep",
     "ownership",
     "restaurant",
+    "shirt_giveaway",
     "slices",
     "structs",
     "structs_example",

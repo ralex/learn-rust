@@ -34,7 +34,7 @@ rustup docs --book
 
 # rustup
 
-## Update Rust toolchains and rustup
+## Update Rust toolchains and rustup
 
 ```
 rustup update
@@ -43,3 +43,8 @@ rustup update
 > With no toolchain specified, the `update` command updates each of
 > the installed toolchains from the official release channels, then
 > updates rustup itself.
+
+# Other resources
+
+📒 matklad's blog: [One Hundred Thousand Lines of Rust](https://matklad.github.io/2021/09/05/Rust100k.html)
+📒 distroy.org blog: [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
