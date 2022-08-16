@@ -20,7 +20,7 @@ fn main() {
             .read_line(&mut input)
             .expect("Failed to read input");
 
-        add_employee(input.trim().split_whitespace().collect(),
+        add_employee(input.split_whitespace().collect(),
                      &mut employees);
     }
 }
@@ -30,7 +30,7 @@ fn add_employee(words: Vec<&str>, employees: &mut HashMap<String, String>) {
         println!("Wrong number of arguments!");
         print_employees(employees);
     } else {
-        match words.get(0) {
+        match words.first() {
             Some(&"Add") => {},
             Some(_) => println!("Request invalid! First word should be 'Add'"),
             None => println!("Request incomplete!"),

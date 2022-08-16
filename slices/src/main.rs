@@ -19,7 +19,6 @@ fn main() {
 
     // `first_word_new` works on slices of string literals, whether partial or whole
     let _word = first_word_new(&my_string_literal[0..6]);
-    let _word = first_word_new(&my_string_literal[..]);
 
     // Because string literals *are* string slices already,
     // this works too, without the slice syntax!
@@ -47,5 +46,5 @@ fn first_word_new(s: &str) -> &str {
         }
     }
 
-    &s[..]
+    s
 }

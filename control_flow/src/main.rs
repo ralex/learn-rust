@@ -34,10 +34,7 @@ fn main() {
     value_in_cents(Coin::Quarter(UsState::Wisconsin));
 
     fn plus_one(x: Option<i32>) -> Option<i32> {
-        match x {
-            None => None,
-            Some(i) => Some(i + 1),
-        }
+        x.map(|i| i + 1)
     }
 
     let five = Some(5);
@@ -56,13 +53,15 @@ fn main() {
     fn remove_fancy_hat() { println!("Remove fancy hat!") }
 
 
-    let config_max = Some(3u8);
-    match config_max {
-        Some(max) => println!("The maximum is configured to be {}", max),
-        _ => (),
-    }
+    // let config_max = Some(3u8);
+    // match config_max {
+    //     Some(max) => println!("The maximum is configured to be {}", max),
+    //     _ => (),
+    // }
 
-    if let Some(max) = config_max {
-        println!("The maximum is configured to be {}", max);
-    }
+    // if let Some(max) = config_max {
+    //     println!("The maximum is configured to be {}", max);
+    // }
+    // More concise way using map
+    if let Some(config_max) = Some(3u8) { println!("The maximum is configured to be {:?}", config_max) }
 }

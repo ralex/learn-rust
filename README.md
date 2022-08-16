@@ -46,5 +46,5 @@ rustup update
 
 # Other resources
 
-📒 matklad's blog: [One Hundred Thousand Lines of Rust](https://matklad.github.io/2021/09/05/Rust100k.html)
-📒 distroy.org blog: [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
+* 📒 distroy.org blog: [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
+* 📒 matklad's blog: [One Hundred Thousand Lines of Rust](https://matklad.github.io/2021/09/05/Rust100k.html)

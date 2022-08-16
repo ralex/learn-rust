@@ -27,11 +27,11 @@ fn main() {
         None => println! ("There is no word to convert!"),
         _ => {
             let begin = match String::from_utf8(bytes.get(1..).unwrap().to_vec()) {
-                Ok(b) => String::from(b),
+                Ok(b) => b,
                 Err(_) => String::from(""),
             };
             let consonant = match String::from_utf8(bytes.get(0..1).unwrap().to_vec()){
-                Ok(c) => String::from(c),
+                Ok(c) => c,
                 Err(_) => String::from(""),
             };
             println!("{}-{}ay", begin, consonant);
