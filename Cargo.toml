@@ -11,6 +11,7 @@ members = [
     "generics",
     "guessing_game",
     "hello_cargo",
+    "iterators",
     "lifetimes",
     "loops",
     "minigrep",
