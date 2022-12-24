@@ -7,6 +7,10 @@ name = "adder"
 version = "0.1.0"
 
 [[package]]
+name = "art"
+version = "0.1.0"
+
+[[package]]
 name = "cfg-if"
 version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -86,6 +90,10 @@ version = "0.1.0"
 
 [[package]]
 name = "minigrep"
+version = "0.1.0"
+
+[[package]]
+name = "my_crate"
 version = "0.1.0"
 
 [[package]]

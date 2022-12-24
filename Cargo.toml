@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "adder",
+    "art",
     "closures",
     "collections",
     "control_flow",
@@ -15,6 +16,7 @@ members = [
     "lifetimes",
     "loops",
     "minigrep",
+    "my_crate",
     "ownership",
     "restaurant",
     "shirt_giveaway",

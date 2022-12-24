@@ -1,11 +1,8 @@
 [package]
-name = "guessing_game"
+name = "art"
 version = "0.1.0"
 edition = "2021"
-description = "A fun game where you guess what number the computer has chosen."
-license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rand = "0.8.3"
