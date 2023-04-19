@@ -48,3 +48,5 @@ rustup update
 
 * 📒 distroy.org blog: [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 * 📒 matklad's blog: [One Hundred Thousand Lines of Rust](https://matklad.github.io/2021/09/05/Rust100k.html)
+* 📒 four day Rust course developed by the Android team: [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
+* 📒 experiment by Brown University researchers to evaluate and improve the content of the Rust Book: [Experiment: Improving the Rust Book](https://rust-book.cs.brown.edu/)
