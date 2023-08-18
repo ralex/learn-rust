@@ -29,6 +29,7 @@ rustup docs --book
 21. [ ] Appendix
 
 # Comprehensive Rust 🦀
+
 📒 Four day Rust course developed by the Android team: [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
 
 - [X] Day 1
