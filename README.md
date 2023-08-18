@@ -28,7 +28,7 @@ rustup docs --book
 20. [ ] Final Project: Building a Multithreaded Web Server
 21. [ ] Appendix
 
-# Comprehensive Rust 🦀
+# Comprehensive Rust 🦀
 📒 Four day Rust course developed by the Android team: [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
 
 - [X] Day 1
