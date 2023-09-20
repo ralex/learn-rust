@@ -13,3 +13,11 @@ version = "0.1.0"
 [[package]]
 name = "points-and-polygons"
 version = "0.1.0"
+
+[[package]]
+name = "storing-books"
+version = "0.1.0"
+
+[[package]]
+name = "strings-and-iterators"
+version = "0.1.0"
