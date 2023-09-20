@@ -10,5 +10,6 @@ edition = "2021"
 [workspace]
 members = [
     "health-statistics",
-    "points-and-polygons"
+    "points-and-polygons",
+    "storing-books"
 ]

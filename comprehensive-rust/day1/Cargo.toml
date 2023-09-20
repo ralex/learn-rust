@@ -11,6 +11,5 @@ edition = "2021"
 members = [
     "implicit-conversions",
     "arrays-and-for-loops",
-    "storing-books",
     "luhn-algorithm"
 ]
