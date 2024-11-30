@@ -60,3 +60,4 @@ rustup update
 * 📒 distroy.org blog: [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 * 📒 matklad's blog: [One Hundred Thousand Lines of Rust](https://matklad.github.io/2021/09/05/Rust100k.html)
 * 📒 experiment by Brown University researchers to evaluate and improve the content of the Rust Book: [Experiment: Improving the Rust Book](https://rust-book.cs.brown.edu/)
+* 🎞️ yishn's YouTube channel [Let's Code Tetris with Rust, WASM, and React](https://www.youtube.com/watch?v=_lAr7JveRVE)
